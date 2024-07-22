@@ -34,5 +34,5 @@ const arr = [5, 4, 3, 2, 1];
 arr.mergeSort();
 
 
-// 时间复杂度 O(n * logn)
-// 分：O(logn) 合 O(n)
+// 时间复杂度 O(n * logN)
+// 分：O(logN) 合 O(n)
